@@ -1,0 +1,15 @@
+{
+  "name": "ciot-simulator",
+  "version": "1.0.0",
+  "description": "CIoT - Civilians IoT Studio (Wokwi-compatible Browser IoT & Arduino Simulator)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.1.4"
+  }
+}
